@@ -1,3 +1,5 @@
+<img width="1365" height="524" alt="Screenshot 2026-11-19 193443" src="https://github.com/user-attachments/assets/efc76b6d-1787-487e-8f67-3fde4566031c" />
+
 # MiroATAK
 Release v1.0.2 | UI Update + More customization
 
