@@ -2,6 +2,7 @@
 
 # MiroATAK
 Release v1.0.2 | UI Update + More customization
+FOR THOSE WHO ALREADY HAVE THE INSTALLER, YOU DO NOT HAVE TO INSTALL THE .EXE AGAIN! JUST REOPEN THE INSTALLER, IT WILL CHECK FOR UPDATES
 
 https://github.com/justyouravarageguy/MiroATAK/releases/tag/v1.0.2
 default password is 1111
